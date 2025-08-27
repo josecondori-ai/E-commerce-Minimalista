@@ -1,0 +1,78 @@
+[
+  {
+    "id": "1",
+    "name": "Auriculares Inalámbricos",
+    "description": "Auriculares con cancelación de ruido activa, batería de 30 horas y sonido de alta fidelidad. Perfectos para trabajo y entretenimiento.",
+    "price": 299.99,
+    "image": "/uno.jpg?height=400&width=400",
+    "category": "Audio",
+    "stock": 15,
+    "featured": true
+  },
+  {
+    "id": "2",
+    "name": "Smartwatch Deportivo",
+    "description": "Reloj inteligente con GPS, monitor de frecuencia cardíaca, resistente al agua y batería de 7 días.",
+    "price": 249.99,
+    "image": "/dos.jpg?height=400&width=400",
+    "category": "Wearables",
+    "stock": 8,
+    "featured": true
+  },
+  {
+    "id": "3",
+    "name": "Cámara Instantánea Retro",
+    "description": "Cámara instantánea con diseño vintage, flash automático y película incluida. Captura momentos únicos.",
+    "price": 129.99,
+    "image": "/tres.jpg?height=400&width=400",
+    "category": "Fotografía",
+    "stock": 12,
+      "featured": true
+
+  },
+  {
+    "id": "4",
+    "name": "Teclado Mecánico RGB",
+    "description": "Teclado mecánico con switches Cherry MX, iluminación RGB personalizable y diseño compacto.",
+    "price": 159.99,
+    "image": "/siete.jpg?height=400&width=400",
+    "category": "Accesorios",
+    "stock": 20
+  },
+  {
+    "id": "5",
+    "name": "Altavoz Bluetooth Portátil",
+    "description": "Altavoz compacto con sonido 360°, resistente al agua IPX7 y 12 horas de reproducción.",
+    "price": 89.99,
+    "image": "/ocho.jpg?height=400&width=400",
+    "category": "Audio",
+    "stock": 25
+  },
+  {
+    "id": "6",
+    "name": "Lámpara LED Inteligente",
+    "description": "Lámpara de escritorio con control por app, 16 millones de colores y temporizador programable.",
+    "price": 79.99,
+    "image": "/cuatro.jpg?height=400&width=400",
+    "category": "Hogar",
+    "stock": 18
+  },
+  {
+    "id": "7",
+    "name": "Mochila Minimalista",
+    "description": "Mochila urbana con compartimento para laptop, diseño impermeable y múltiples bolsillos organizadores.",
+    "price": 119.99,
+    "image": "/cinco.jpg?height=400&width=400",
+    "category": "Accesorios",
+    "stock": 14
+  },
+  {
+    "id": "8",
+    "name": "Cargador Inalámbrico Rápido",
+    "description": "Base de carga inalámbrica de 15W, compatible con todos los dispositivos Qi y diseño ultra delgado.",
+    "price": 49.99,
+    "image": "/seis.jpg?height=400&width=400",
+    "category": "Accesorios",
+    "stock": 30
+  }
+]
