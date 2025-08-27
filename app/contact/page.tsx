@@ -54,6 +54,21 @@ export default function ContactPage() {
                 <Textarea id="message" placeholder="Escribe tu mensaje aquí..." rows={6} />
               </div>
               <Button className="w-full">Enviar Mensaje</Button>
+              <div className="pt-6">
+                <h3 className="font-heading text-lg font-semibold text-foreground mb-3">Ubicación de la tienda</h3>
+                <div className="rounded-lg overflow-hidden border bg-muted/10">
+                  <iframe
+                    title="Ubicación de la tienda"
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3037.847719908684!2d-3.70853022343757!3d40.41536395541696!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd42287c5f9d7b37%3A0x8c4a2e9b1d2c90b2!2sPlaza%20Mayor%2C%20Madrid!5e0!3m2!1ses!2ses!4v1700000000000!5m2!1ses!2ses"
+                    width="100%"
+                    height="300"
+                    style={{ border: 0 }}
+                    loading="lazy"
+                    allowFullScreen
+                    referrerPolicy="no-referrer-when-downgrade"
+                  />
+                </div>
+              </div>
             </CardContent>
           </Card>
 
